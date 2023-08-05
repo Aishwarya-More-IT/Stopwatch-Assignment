@@ -1,0 +1,73 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* width: 600px */
+    /* min-height: 50vh; */
+}
+
+.watch {
+    background-color: rgb(86, 12, 213);
+    padding: 20px 24px;
+    border-radius: 10px;
+    border: 5px solid rgb(227, 11, 18);
+}
+
+.watch h1 {
+    color: rgb(249, 55, 84);
+    text-align: center;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.time {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.button {
+    margin: 20px;
+}
+
+sub {
+    font-size: smaller;
+}
+
+.button .but1 {
+
+    font-size: 20px;
+    background: none;
+    border: none;
+    background-color: rgb(251, 65, 23);
+    color: azure;
+    padding: 12px 24px;
+    margin-left: 35px;
+    border-radius: 8px;
+}
+
+.button .but2 {
+
+    font-size: 20px;
+    background: none;
+    border: none;
+    background-color: rgb(56, 247, 8);
+    color: azure;
+    padding: 12px 24px;
+    margin-left: 35px;
+    border-radius: 8px;
+}
+
+.button .but3 {
+
+    font-size: 20px;
+    background: none;
+    border: none;
+    background-color: rgb(237, 139, 11);
+    color: azure;
+    padding: 12px 24px;
+    margin-left: 35px;
+    border-radius: 8px;
+}
